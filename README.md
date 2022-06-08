@@ -31,8 +31,10 @@
 
   </div>
   
+ 
 ##
 
+ 
 <div> 
   <a href="https://instagram.com/isabellylemoss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
@@ -44,13 +46,12 @@
 
  
  
- 
+ ##
+
 <div> 
 
-<img height="400" src ="https://media4.giphy.com/media/JrGYQZWou5Z51vNRob/giphy.gif> 
+<img height="230em" height="280" src ="https://media4.giphy.com/media/JrGYQZWou5Z51vNRob/giphy.gif"> 
+<img height="230em" height="280" src ="https://media1.giphy.com/media/UqA4FwE9Pzy3tct5ed/giphy.gif?cid=ecf05e47zlyy10i58d9eo2p515p7dkktzx040tv2v38cewpk&rid=giphy.gif&ct=g"> 
 
 
 </div>
-
- 
- 

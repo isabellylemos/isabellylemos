@@ -47,7 +47,8 @@
  
 <div> 
 
-<img height="230" src ="https://media4.giphy.com/media/JrGYQZWou5Z51vNRob/giphy.gif"> 
+<img height="400" src ="https://media4.giphy.com/media/JrGYQZWou5Z51vNRob/giphy.gif> 
+
 
 </div>
 

@@ -3,7 +3,7 @@
 
 
 - Fullstack em desenvolvimento 🚀
-- Apaixonada por programação 🔭
+- Apaixonada por programação  👩🏾‍💻
 - Estudante de ADS 💞️
 
 

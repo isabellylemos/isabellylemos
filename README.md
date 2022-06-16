@@ -4,6 +4,7 @@
 <h4>
 <img align="right" width="80" src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif">
    
+  - Pronomes Ela/Ella/She 🌼
   - Fullstack pela Generation Brasil 🚀 
   - Apaixonada por programação  ❤
   - Estudante de ADS 👩🏾‍💻 
@@ -26,7 +27,6 @@
 
 </div>
 
-
 ##
  <div align="center">
    
@@ -48,7 +48,10 @@
   <img align="center" alt="Isabelly-Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="50"/>
   
 ##
+ 
 </div>
+   
+   
 
 
 

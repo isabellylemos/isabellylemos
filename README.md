@@ -1,22 +1,27 @@
 
-## Prazer, Isa{Bely}   👽
+   ## Prazer, Isa{Bely}   👽    
+
+<h4>
+
+  - Fullstack em desenvolvimento 🚀
+  - Apaixonada por programação  ❤
+  - Estudante de ADS 👩🏾‍💻 </h4>
 
 
-- Fullstack em desenvolvimento 🚀
-- Apaixonada por programação  👩🏾‍💻
-- Estudante de ADS 💞️
-
+<div align="center">
+<img src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif" width="80"> 
+</div>
 
 ##
 
-
  <div align="center">
+   
   <a href="https://github.com/isabellylemos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellylemos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellylemos&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=isabellylemos&theme=slateorange&&include_all_commits=true&count_private=false&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabellylemos&theme=slateorange&&include_all_commits=true&count_private=false&hide_border=true"/>
 </div>
  
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
  
  <img align="center" alt="Isabelly-Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="50"/> 
   <img align="center" alt="Isabelly-Js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40" height="30"/>
@@ -34,7 +39,7 @@
  ##
 
  
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/isabellylemoss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/isabellylemos3946" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
@@ -47,10 +52,9 @@
  
  ##
 
-<div> 
+<div align="center" > 
 
-<img height="230em" height="280" src ="https://media4.giphy.com/media/JrGYQZWou5Z51vNRob/giphy.gif"> 
-<img height="230em" height="280" src ="https://media1.giphy.com/media/UqA4FwE9Pzy3tct5ed/giphy.gif?cid=ecf05e47zlyy10i58d9eo2p515p7dkktzx040tv2v38cewpk&rid=giphy.gif&ct=g"> 
+<img align="leaft" alt="Gif" height="300" width="1090" style="border-radius:50px;"  src="https://c.tenor.com/YG_Jz4QQFNIAAAAC/pixel-art-room.gif">
 
 
 </div>

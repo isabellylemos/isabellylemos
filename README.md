@@ -50,7 +50,7 @@
 ##
  
 </div>
-  ![Snake animation](https://github.com/isabellylemos/isabellylemos/blob/output/github-contribution-grid-snake.svg) 
+ 
    
 
 

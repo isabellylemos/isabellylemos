@@ -3,7 +3,7 @@
 
 <h4>
 
-  - Fullstack em desenvolvimento 🚀
+  - Fullstack pela Generation Brasil 🚀 
   - Apaixonada por programação  ❤
   - Estudante de ADS 👩🏾‍💻 </h4>
 

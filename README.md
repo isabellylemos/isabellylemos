@@ -50,6 +50,8 @@
 ##
  
 </div>
+   
+   ![snake gif](https://github.com/isabellylemos/isabellylemos/blob/output/github-contribution-grid-snake.svg)
  
    
 

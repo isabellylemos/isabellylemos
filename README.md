@@ -7,7 +7,7 @@
   - Pronomes Ela/Ella/She 🌼
   - Fullstack pela Generation Brasil 🚀 
   - Apaixonada por programação  ❤
-  - Estudante de ADS 👩🏾‍💻 
+  - Estudante de Sistemas da Informação 👩🏾‍💻 
   - Contact 👇🏾 </h4>
      </div>
  

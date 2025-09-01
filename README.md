@@ -5,9 +5,8 @@
 <img align="right" width="80" src="https://media.giphy.com/media/0TtX2qqpxp3pIafzio/giphy.gif">
    
   - Pronomes Ela/Ella/She 🌼
-  - Fullstack pela Generation Brasil 🚀 
-  - Apaixonada por programação  ❤
-  - Estudante de Sistemas da Informação 👩🏾‍💻 
+  - Fullstack pela Generation Brasil 🚀
+  - Estudante de ADS 👩🏾‍💻 
   - Contact 👇🏾 </h4>
      </div>
  
